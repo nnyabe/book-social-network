@@ -18,7 +18,7 @@ services:
 
   mail-dev:
     container_name: mail-dev-bsn
-    image: maildev/maildev
+    image: mail dev/mail dev
     ports:
       - "1080:1080"
       - "1025:1025"
